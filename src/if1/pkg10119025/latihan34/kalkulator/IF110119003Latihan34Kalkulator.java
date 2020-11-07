@@ -10,6 +10,10 @@ import java.util.Scanner;
 /**
  *
  * @author User
+ * * NAMA     : ADHIRA FAHRI GATHAN
+ * KELAS    : PBO
+ * NIM      : 10119025
+ * Deskripsi Program : Program ini berisi tentang Kalkulator
  */
 public class IF110119003Latihan34Kalkulator {
 
